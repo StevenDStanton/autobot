@@ -1,6 +1,6 @@
-# autobot
+# autobotgo
 
-Automatic LLM Generated Stories, PodCasts, and Videos
+Automatic LLM Generated Stories, PodCasts, and Videos in Go
 
 ## To Do
 

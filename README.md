@@ -4,7 +4,7 @@ Automatic LLM Generated Stories, PodCasts, and Videos in Go
 
 ## To Do
 
-- [ ] Setup http server to listen for external cron trigger
+- [x] Setup http server to listen for external cron trigger
 - [ ] Setup Auto Deploy Workflow
 - [ ] Write .env from workflow
 - [ ] Set up SQLite

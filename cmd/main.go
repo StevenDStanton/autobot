@@ -19,11 +19,11 @@ func main() {
 	client := openai.NewOpenAIClient(openAiApiKey)
 	message := chat.Message{
 		Content: "Tell me about golang",
-		Role:    chat.User,
+		Role:    chat.Role.User,
 	}
 
 	messages := []chat.Message{message}
-	response, err := client.Chat.NewChatRequest(chat.GPT4o, messages, chat.Text)
+	response, err := client.Chat.NewChatRequest(chat.Model.GPT4o, messages, chat.Type.JSON)
 
 	if err != nil {
 		fmt.Println(fmt.Errorf("error: %w", err))

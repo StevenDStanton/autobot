@@ -18,5 +18,7 @@ github.com/StevenDStanton/openaigo v1.0.7 h1:SHXRQstvanme1mTPwr2qZ2RWyJOYkWEkfW5
 github.com/StevenDStanton/openaigo v1.0.7/go.mod h1:HrMVlfgGC7OMrM8qNTTcvfBHK29U9c7+cmv3dBsC8Qw=
 github.com/StevenDStanton/openaigo v1.0.8 h1:iuhwX73MNxLPj2uPXGqF8/juJEIN0ShntTY11AQldDY=
 github.com/StevenDStanton/openaigo v1.0.8/go.mod h1:HrMVlfgGC7OMrM8qNTTcvfBHK29U9c7+cmv3dBsC8Qw=
+github.com/StevenDStanton/openaigo v1.0.9 h1:VzzCdQJmEK3at/piOtIzE8R/etV2tTdOxryUVBjdo4U=
+github.com/StevenDStanton/openaigo v1.0.9/go.mod h1:HrMVlfgGC7OMrM8qNTTcvfBHK29U9c7+cmv3dBsC8Qw=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=

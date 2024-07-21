@@ -1,5 +1,7 @@
 # autobotgo
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/StevenDStanton/autobotgo)](https://goreportcard.com/report/github.com/StevenDStanton/autobotgo)
+
 Automatic LLM Generated Stories, PodCasts, and Videos in Go
 
 ## To Do

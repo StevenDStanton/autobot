@@ -1,0 +1,69 @@
+{
+  "openai": {
+    "api_key": "************************",
+    "text_model": "gpt-5.4",
+    "story_model": "",
+    "tts_model": "gpt-4o-mini-tts",
+    "tts_voice": "onyx",
+    "tts_instructions": "Warm, unhurried storyteller. Calm pacing, gentle emphasis, slight pauses between paragraphs.",
+    "tts_max_chunk_tokens": 1500,
+    "image_model": "gpt-image-1.5",
+    "image_size": "1536x1024",
+    "image_quality": "high",
+    "image_style_prompt": "Soft painterly digital illustration, muted warm palette, cinematic lighting, no text or captions"
+  },
+  "story": {
+    "prompt_file": "story.md",
+    "target_minutes": 5,
+    "target_words_min": 750,
+    "target_words_max": 850
+  },
+  "world": {
+    "max_words": 4000,
+    "rag_enabled": true,
+    "vector_store_id": ""
+  },
+  "video": {
+    "images_per_minute": 2,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "crossfade_seconds": 1,
+    "kenburns_max_zoom": 1.12,
+    "end_hold_seconds": 2,
+    "x264_preset": "medium",
+    "x264_crf": 18,
+    "background_music_path": "",
+    "music_volume": 0.12,
+    "clips": {
+      "enabled": false,
+      "provider": ""
+    }
+  },
+  "youtube": {
+    "enabled": true,
+    "client_id": "************************",
+    "client_secret": "************************",
+    "refresh_token": "************************",
+    "privacy_status": "private",
+    "category_id": "22",
+    "made_for_kids": false,
+    "extra_tags": [],
+    "playlist_id": ""
+  },
+  "aws": {
+    "enabled": false,
+    "region": "us-east-1",
+    "bucket": "",
+    "prefix": "autobotgo/",
+    "endpoint": "",
+    "access_key_id": "",
+    "secret_access_key": ""
+  },
+  "run_time": "08:00",
+  "run_days": null,
+  "timezone": "America/New_York",
+  "runs_dir": "runs",
+  "notify_url": "",
+  "log_file": "autobotgo.log"
+}

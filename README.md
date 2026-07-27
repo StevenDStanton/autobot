@@ -1,5 +1,8 @@
 # AutoBotGo
 
+> **Archived.** After testing this project, I was not happy with the quality
+> of the stories it produced, so it is no longer being developed.
+
 AutoBotGo writes a story, narrates it, illustrates it, turns it into a
 video, and uploads it to YouTube as **private**, once a day, on its own.
 You watch it and decide whether to publish.
